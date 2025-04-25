@@ -578,3 +578,55 @@ h6 {
 	padding: 150px 0px 100px;
 }
 }
+.whatsapp-float {
+    position: fixed;
+    width: 80px;
+    height: 80px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 40px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+    transition: all 0.3s ease;
+}
+
+.whatsapp-float:hover {
+    background-color: #128C7E;
+    transform: scale(1.1);
+}
+
+.whatsapp-float i {
+    margin-top: 20px;
+}
+
+.section-title p {
+	width: 100%;
+}
+.section-title h3 {
+	margin-bottom: 12px;
+	font-size: 25px;
+}
+.section-padding {
+	padding: 60px 0px;
+}
+.section-title {
+	padding-bottom: 40px;
+}
+.portfolio .filtering {
+	border:none;
+}
+.portfolio .filtering .active {
+	border-radius: 0px;
+}
+.portfolio .filtering button {
+	font-size: 10px;
+	padding: 10px 15px;
+}
+.banner-overlay {
+	padding: 150px 0px 100px;
+}
+
